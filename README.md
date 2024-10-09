@@ -29,3 +29,6 @@ Bar coupons: Targeted campaigns focusing on older individuals with a history of 
 Coffee House coupons: Campaigns targeting customers aged over 25, especially those who visit coffee houses frequently, those with higher education levels, or those with flexible schedules, may prove more effective.
 
 
+Link to Jupyter Notebook:  https://github.com/Biju-Seth/AI_ML/blob/main/amazon_data.ipynb
+
+
